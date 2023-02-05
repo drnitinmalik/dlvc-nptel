@@ -1,7 +1,7 @@
 # dlvcnptel
 This repository contains the tutorials for the Deep Learning in Visual Computing NPTEL MOOC
 
-To run these codes, you need ipython/jupyter notebook and PyTorch.
+To run these codes, you need jupyter notebook and PyTorch 1.0.
 
 ### Dependencies
 1. Download and install [Anaconda](https://www.anaconda.com/download/).
