@@ -9,3 +9,6 @@ To run these codes, you need jupyter notebook and PyTorch 1.0.
 
 ### Running the tutorials
 The tutorials are organised as separate lectures and compiled into ipython notebooks. You can run the sections in the notebooks one by one to see the results.
+
+### Note
+#Many of the .ipynb files after downloading does not open up in Anaconda distribution due to error (json not proper). May be you need to copy the code and paste in new .ipynb file and then run.
